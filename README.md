@@ -81,7 +81,4 @@ All feature branches are preserved to demonstrate incremental development.
 
 ---
 
-## 🧠 How It Works
 
-### Scenario 1: Reverse Match
-Input:
